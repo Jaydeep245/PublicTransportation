@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">PublicTransportation</string>
+    <string-array name="city">
+        <item>Gandhinagar</item>
+        <item>Surat</item>
+        <item>Jamnagar</item>
+        <item>Mumbai</item>
+        <item>Baroda</item>
+    </string-array>
+
+</resources>
